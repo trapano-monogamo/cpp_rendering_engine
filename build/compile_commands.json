@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/noemi/projects/cpp/rendering_engine/build/engine",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/rendering_engine/engine/include -I/home/noemi/projects/cpp/rendering_engine/engine/../ecs/include -I/home/noemi/projects/cpp/rendering_engine/ecs/include  -o CMakeFiles/engine.dir/src/engine.cpp.o -c /home/noemi/projects/cpp/rendering_engine/engine/src/engine.cpp",
+  "file": "/home/noemi/projects/cpp/rendering_engine/engine/src/engine.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/rendering_engine/build/ecs",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/rendering_engine/ecs/include  -o CMakeFiles/ecs.dir/src/ecs.cpp.o -c /home/noemi/projects/cpp/rendering_engine/ecs/src/ecs.cpp",
+  "file": "/home/noemi/projects/cpp/rendering_engine/ecs/src/ecs.cpp"
+},
+{
+  "directory": "/home/noemi/projects/cpp/rendering_engine/build/demo",
+  "command": "/usr/bin/c++  -I/home/noemi/projects/cpp/rendering_engine/demo/incldue -I/home/noemi/projects/cpp/rendering_engine/demo/../engine/incldue -I/home/noemi/projects/cpp/rendering_engine/demo/../ecs/incldue -I/home/noemi/projects/cpp/rendering_engine/engine/include -I/home/noemi/projects/cpp/rendering_engine/engine/../ecs/include -I/home/noemi/projects/cpp/rendering_engine/ecs/include  -o CMakeFiles/demo.dir/src/demo.cpp.o -c /home/noemi/projects/cpp/rendering_engine/demo/src/demo.cpp",
+  "file": "/home/noemi/projects/cpp/rendering_engine/demo/src/demo.cpp"
+}
+]
