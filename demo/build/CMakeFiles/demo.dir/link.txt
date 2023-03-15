@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/demo.dir/main.cpp.o -o demo  -Wl,-rpath,/home/chiara/projects/cpp/rendering_engine/lib /home/chiara/projects/cpp/rendering_engine/lib/libengine.so 

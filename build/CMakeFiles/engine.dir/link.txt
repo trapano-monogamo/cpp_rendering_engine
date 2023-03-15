@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libengine.so -o /home/chiara/projects/cpp/rendering_engine/lib/libengine.so CMakeFiles/engine.dir/src/engine.cpp.o CMakeFiles/engine.dir/src/ecs/ecs.cpp.o 

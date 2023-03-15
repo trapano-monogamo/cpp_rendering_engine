@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/chiara/projects/cpp/rendering_engine/build",
+  "command": "/usr/bin/c++ -Dengine_EXPORTS -I/home/chiara/projects/cpp/rendering_engine/include -g -fPIC -o CMakeFiles/engine.dir/src/engine.cpp.o -c /home/chiara/projects/cpp/rendering_engine/src/engine.cpp",
+  "file": "/home/chiara/projects/cpp/rendering_engine/src/engine.cpp"
+},
+{
+  "directory": "/home/chiara/projects/cpp/rendering_engine/build",
+  "command": "/usr/bin/c++ -Dengine_EXPORTS -I/home/chiara/projects/cpp/rendering_engine/include -g -fPIC -o CMakeFiles/engine.dir/src/ecs/ecs.cpp.o -c /home/chiara/projects/cpp/rendering_engine/src/ecs/ecs.cpp",
+  "file": "/home/chiara/projects/cpp/rendering_engine/src/ecs/ecs.cpp"
+}
+]
